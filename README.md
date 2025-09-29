@@ -19,7 +19,7 @@ I am seeking job opportunities that allow me to keep growing in the software dev
 ### 🛠️ Technologies I use
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,javascript,html,css,php,mysql,postgres,git,github,vscode,wordpress,nodejs,react" />
+  <img src="https://skillicons.dev/icons?i=java,python,javascript,html,css,php,mysql,postgres,git,github,vscode,wordpress,nodejs,react,typescript" />
 </div>
 
 ---
