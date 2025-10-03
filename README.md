@@ -24,7 +24,7 @@ I am seeking job opportunities that allow me to keep growing in the software dev
 
 ---
 
-### 🚀 Featured Project
+### 🚀 Featured Projects
 
 #### 🐾 APV - Veterinarian Patient Appointment Manager  
 📎 [Live Demo & Repository](https://github.com/LucreciaVeron/apv_frontend_deploy)
