@@ -37,7 +37,7 @@ A **Fullstack MERN** application for managing veterinary clinic patients. It all
 - **Patient Management**: Register, edit, and delete patient info (name, owner, symptoms, etc.).
 - **Navigation**: Easy access to patient list, profile, and logout.
 
-This project demonstrates my skills in building secure, full-stack applications with MERN.
+> This project demonstrates my skills in building secure, full-stack applications with MERN.
 
 #### 🐦 Vegan Flappy Bird
 📎 [View Repository](https://github.com/LucreciaVeron/Vegan-Flappy-Bird)
