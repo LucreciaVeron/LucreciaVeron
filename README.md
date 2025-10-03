@@ -26,6 +26,19 @@ I am seeking job opportunities that allow me to keep growing in the software dev
 
 ### 🚀 Featured Project
 
+#### 🐾 APV - Veterinarian Patient Appointment Manager  
+📎 [Live Demo & Repository](https://github.com/LucreciaVeron/apv_frontend_deploy)
+
+A **Fullstack MERN** application for managing veterinary clinic patients. It allows veterinarians to register, log in, confirm accounts via email, and manage patient information.
+
+**Key Features:**
+- **Authentication**: JWT-based registration, login, and password recovery (Nodemailer + Mailtrap).
+- **Profile Management**: Edit personal info, update password, and add optional details.
+- **Patient Management**: Register, edit, and delete patient info (name, owner, symptoms, etc.).
+- **Navigation**: Easy access to patient list, profile, and logout.
+
+This project demonstrates my skills in building secure, full-stack applications with MERN.
+
 #### 🐦 Vegan Flappy Bird
 📎 [View Repository](https://github.com/LucreciaVeron/Vegan-Flappy-Bird)
 
