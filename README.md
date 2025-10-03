@@ -39,9 +39,9 @@ A replica of the classic Flappy Bird game developed in **Java** using object-ori
 
 ---
 
-### 📚 What I'm learning
+### 📚 What I've Learned
 
-Currently, I am taking an intensive **Modern JavaScript** course where I’m learning everything from the fundamentals to advanced topics like:
+I recently completed an intensive Modern JavaScript course where I learned everything from the fundamentals to advanced topics, including:
 
 - Object-Oriented Programming with **Classes** and **Prototypes**
 - Asynchronous programming with **Promises**, **Async/Await**, and handling **Fetch API**
@@ -49,7 +49,7 @@ Currently, I am taking an intensive **Modern JavaScript** course where I’m lea
 - Applying **Higher Order Functions**, **Arrow Functions**, **Generators**, **Template Literals**
 - Testing with **Cypress**, **Jest**, and developing custom frameworks
 
-🛠️ I’m also working on practical projects such as:
+🛠️ I also worked on practical projects such as:
 
 - CRM with **IndexedDB**
 - Insurance and loan calculators
@@ -57,7 +57,7 @@ Currently, I am taking an intensive **Modern JavaScript** course where I’m lea
 - Full-stack apps with **Node.js**, **Express**, **MongoDB**, **Sequelize**, and **React**
 - Interactive sites like search engines, calendars, calculators, and shopping carts
 
-> This course is helping me solidify my skills as a full-stack developer with a focus on modern JavaScript (MERN, Vue, etc.).
+> This course helped me solidify my skills as a full-stack developer with a focus on Modern JavaScript (MERN, Vue, etc.).
 
 ---
 
