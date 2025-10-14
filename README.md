@@ -1,22 +1,22 @@
-<h1 align="center">¡Hi! 👋 I'm Lucrecia Verón</h1>
+<h1 align="center">¡Hola! 👋 Soy Lucrecia Verón</h1>
 
 <p align="center">
-🎓 University Degree in Computer Science • Currently Studying Systems Engineering  
-💻 Full Stack Developer in training | Passionate about learning and building
+🎓 Tecnica Universitaria en Informática • Actualmente estudiando Licenciatura en Sistemas
+💻 Desarrolladora Full Stack en formación | Apasionada por aprender y crear
 </p>
 
 ---
 
-### 🙋‍♀️ About Me
+### 🙋‍♀️ Sobre mí
 
-I hold a University Degree in Computer Science and I am currently pursuing a Systems Engineering degree.  
-I consider myself a self-taught person, eager to learn, whether through university courses, personal projects, or self-study.  
-I enjoy working in teams, collaborating with others, and also advancing independently when the project requires it.  
-I am seeking job opportunities that allow me to keep growing in the software development field.
+Soy Tecnica Universitaria en Informática y actualmente estoy cursando la carrera de Licenciatura en Sistemas.  
+Me considero una persona autodidacta, con muchas ganas de aprender, ya sea a través de la universidad, proyectos personales o estudio independiente.  
+Disfruto trabajar en equipo, colaborar con otras personas y también avanzar de manera autónoma cuando el proyecto lo requiere.  
+Busco oportunidades laborales que me permitan seguir creciendo en el campo del desarrollo de software.
 
 ---
 
-### 🛠️ Technologies I use
+### 🛠️ Tecnologías que utilizo
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=java,python,javascript,html,css,php,mysql,postgres,git,github,vscode,wordpress,nodejs,react,typescript" />
@@ -24,57 +24,58 @@ I am seeking job opportunities that allow me to keep growing in the software dev
 
 ---
 
-### 🚀 Featured Projects
+### 🚀 Proyectos destacados
 
-#### 🐾 APV - Veterinarian Patient Appointment Manager  
-📎 [Live Demo & Repository](https://github.com/LucreciaVeron/apv_frontend_deploy)
+#### 🐾 APV - Administrador de Pacientes de Veterinaria  
+📎 [Demo y Repositorio](https://github.com/LucreciaVeron/apv_frontend_deploy)
 
-A **Fullstack MERN** application for managing veterinary clinic patients. It allows veterinarians to register, log in, confirm accounts via email, and manage patient information.
+Aplicación **Fullstack MERN** para la gestión de pacientes en una clínica veterinaria.  
+Permite a los veterinarios registrarse, iniciar sesión, confirmar su cuenta por correo y administrar la información de sus pacientes.
 
-**Key Features:**
-- **Authentication**: JWT-based registration, login, and password recovery (Nodemailer + Mailtrap).
-- **Profile Management**: Edit personal info, update password, and add optional details.
-- **Patient Management**: Register, edit, and delete patient info (name, owner, symptoms, etc.).
-- **Navigation**: Easy access to patient list, profile, and logout.
+**Características principales:**
+- **Autenticación**: Registro, inicio de sesión y recuperación de contraseña con JWT (Nodemailer + Mailtrap).
+- **Gestión de perfil**: Edición de datos personales, cambio de contraseña y campos opcionales.
+- **Gestión de pacientes**: Registro, edición y eliminación de pacientes (nombre, propietario, síntomas, etc.).
+- **Navegación**: Acceso rápido a la lista de pacientes, perfil y cierre de sesión.
 
-> This project demonstrates my skills in building secure, full-stack applications with MERN.
+> Este proyecto demuestra mis habilidades para construir aplicaciones full stack seguras con MERN.
 
-#### 🐦 Vegan Flappy Bird
-📎 [View Repository](https://github.com/LucreciaVeron/Vegan-Flappy-Bird)
+#### 🐦 Vegan Flappy Bird  
+📎 [Ver Repositorio](https://github.com/LucreciaVeron/Vegan-Flappy-Bird)
 
-A replica of the classic Flappy Bird game developed in **Java** using object-oriented programming principles, with an educational and sustainable twist:
+Una réplica del clásico juego **Flappy Bird** desarrollada en **Java**, aplicando principios de programación orientada a objetos, con un giro educativo y sustentable:
 
-- The bird gains points by eating **vegetables** and loses points when eating **meat**.
-- The bird can also turn meat into vegetables during gameplay!
-- It includes custom logic and graphic animations.
+- El pájaro gana puntos comiendo **verduras** y pierde puntos al comer **hamburguesas**.  
+- ¡También puede transformar las hamburguesas en verduras durante el juego!  
 
-> This project demonstrates my ability to recreate well-known games, add extra logic, and apply good OOP practices.
-
----
-
-### 📚 What I've Learned
-
-I recently completed an intensive Modern JavaScript course where I learned everything from the fundamentals to advanced topics, including:
-
-- Object-Oriented Programming with **Classes** and **Prototypes**
-- Asynchronous programming with **Promises**, **Async/Await**, and handling **Fetch API**
-- Consuming **REST APIs** with JSON
-- Applying **Higher Order Functions**, **Arrow Functions**, **Generators**, **Template Literals**
-- Testing with **Cypress**, **Jest**, and developing custom frameworks
-
-🛠️ I also worked on practical projects such as:
-
-- CRM with **IndexedDB**
-- Insurance and loan calculators
-- Simulators with **LocalStorage** storage
-- Full-stack apps with **Node.js**, **Express**, **MongoDB**, **Sequelize**, and **React**
-- Interactive sites like search engines, calendars, calculators, and shopping carts
-
-> This course helped me solidify my skills as a full-stack developer with a focus on Modern JavaScript (MERN, Vue, etc.).
+> Este proyecto demuestra mi capacidad para recrear juegos conocidos, añadir lógica extra y aplicar buenas prácticas de POO.
 
 ---
 
-### 📫 Contact
+### 📚 Lo que he aprendido
 
-- [LinkedIn](https://linkedin.com/in/lucreciaveron)
-- 📧 lucreciaveron.99@gmail.com 
+Recientemente completé un curso intensivo de JavaScript Moderno donde aprendí desde los fundamentos hasta temas avanzados, incluyendo:
+
+- Programación orientada a objetos con **Clases** y **Prototipos**  
+- Programación asíncrona con **Promises**, **Async/Await** y manejo de **Fetch API**  
+- Consumo de **APIs REST** con JSON  
+- Uso de **Funciones de Orden Superior**, **Arrow Functions**, **Generadores**, **Template Literals**  
+- Testing con **Cypress**, **Jest**, y desarrollo de frameworks propios  
+
+🛠️ También realicé proyectos prácticos como:
+
+- CRM con **IndexedDB**  
+- Calculadoras de seguros y préstamos  
+- Simuladores con almacenamiento en **LocalStorage**  
+- Aplicaciones full stack con **Node.js**, **Express**, **MongoDB**, **Sequelize** y **React**  
+- Sitios interactivos como buscadores, calendarios, calculadoras y carritos de compras  
+
+> Este curso me ayudó a consolidar mis habilidades como desarrolladora full stack, con foco en JavaScript Moderno (MERN, Vue, etc.).
+
+---
+
+### 📫 Contacto
+
+- [LinkedIn](https://linkedin.com/in/lucreciaveron)  
+- 📧 lucreciaveron.99@gmail.com
+
